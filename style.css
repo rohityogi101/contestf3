@@ -1,0 +1,20 @@
+
+.hide {
+    display: none;
+}
+
+.error {
+    color: red;
+}
+
+form .success {
+    color: rgb(22, 252, 33);
+}
+
+form span {
+    display: none;
+}
+
+form .error span {
+    display: block;
+}
